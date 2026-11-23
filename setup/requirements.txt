@@ -1,0 +1,27 @@
+# Core
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+scipy
+statsmodels
+hmmlearn
+
+# Deep learning
+tensorflow
+torch
+torchvision
+
+# NLP
+nltk
+
+# Computer vision
+opencv-python
+
+# Text-to-speech (week 25)
+gTTS
+pyttsx3

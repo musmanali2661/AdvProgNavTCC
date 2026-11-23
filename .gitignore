@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (keep small files in datasets/ only)
+datasets/raw/
+datasets/large/
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Slide editor lock files
+~$*.pptx
